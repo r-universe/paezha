@@ -1,5 +1,9 @@
 [
   {
+    "package": "discrtr",
+    "oncran": true
+  },
+  {
     "package": "MexBrewer",
     "oncran": true
   }
