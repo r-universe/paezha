@@ -1,10 +1,10 @@
 [
   {
-    "package": "MexBrewer",
+    "package": "discrtr",
     "oncran": true
   },
   {
-    "package": "discrtr",
+    "package": "MexBrewer",
     "oncran": true
   }
 ]
