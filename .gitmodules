@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "discrtr"]
-	path = discrtr
-	url = https://github.com/paezha/discrtr
 [submodule "MexBrewer"]
 	path = MexBrewer
 	url = https://github.com/paezha/mexbrewer
+[submodule "discrtr"]
+	path = discrtr
+	url = https://github.com/paezha/discrtr
