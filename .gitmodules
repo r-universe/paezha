@@ -8,3 +8,6 @@
 [submodule "discrtr"]
 	path = discrtr
 	url = https://github.com/paezha/discrtr
+[submodule "truchet"]
+	path = truchet
+	url = https://github.com/paezha/truchet
